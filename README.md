@@ -1,0 +1,2 @@
+# Intelligent-Vehicle-Parking
+The searching of parking burn a lot of barrel of the world oil every day. Car parking problem is a major role in congestion of traffic and has been still a major problem with increasing vehicle size in the luxurious segment and also confine parking spaces in urban cities. The rapid growth in the number of vehicles worldwide is intensifying the problem of the lack of parking space. As the global population continues to urbanize, without a well-planned convenience driven retreat from the car these problems will worsen in many countries. 
